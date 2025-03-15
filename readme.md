@@ -1,0 +1,2 @@
+ Project Description: UPI Fraud Detection
+UPI Fraud Detection is a machine learning-based system designed to identify and prevent fraudulent transactions in real-time. With the increasing use of Unified Payments Interface (UPI) for digital transactions, fraudsters exploit vulnerabilities, leading to financial losses. This project leverages AI-driven techniques to analyze transaction patterns, detect anomalies, and classify fraudulent activities, ensuring a secure payment ecosystem.
